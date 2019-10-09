@@ -4,8 +4,8 @@ package controllers
 import (
 	// "code.google.com/p/mahonia"
 	"encoding/json"
-	"github.com/3xxx/engineercms/controllers/utils"
-	"github.com/3xxx/engineercms/models"
+	"./utils"
+	"../models"
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/context"
 	"github.com/astaxie/beego/httplib"

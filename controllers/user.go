@@ -5,7 +5,7 @@ import (
 	// "github.com/astaxie/beego/orm"
 	"crypto/md5"
 	"encoding/hex"
-	m "github.com/3xxx/engineercms/models"
+	m "../models"
 	"github.com/astaxie/beego"
 	// "github.com/astaxie/beego/logs"
 	"github.com/tealeg/xlsx"

@@ -5,7 +5,7 @@ import (
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/logs"
 	// "io"
-	"github.com/3xxx/engineercms/models"
+	"../models"
 	"regexp"
 	"strconv"
 	"strings"

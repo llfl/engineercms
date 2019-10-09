@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"github.com/3xxx/engineercms/models"
+	"../models"
 	"github.com/astaxie/beego"
 	"path"
 	"strconv"

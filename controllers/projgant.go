@@ -6,7 +6,7 @@ import (
 	"github.com/astaxie/beego"
 	"github.com/tealeg/xlsx"
 	// "github.com/astaxie/beego/utils/pagination"
-	"github.com/3xxx/engineercms/models"
+	"../models"
 	"os"
 	// "path"
 	// "path/filepath"

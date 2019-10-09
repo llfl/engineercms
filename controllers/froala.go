@@ -14,7 +14,7 @@ import (
 	"path"
 	// "hydrocms/models"
 	"encoding/base64"
-	"github.com/3xxx/engineercms/models"
+	"../models"
 	"io/ioutil"
 	"regexp"
 	"strconv"

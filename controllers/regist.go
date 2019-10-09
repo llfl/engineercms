@@ -6,7 +6,7 @@ import (
 	"github.com/astaxie/beego"
 	// "github.com/bitly/go-simplejson"
 	"encoding/json"
-	"github.com/3xxx/engineercms/models"
+	"../models"
 	"net/http"
 	"strconv"
 	"time"

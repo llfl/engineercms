@@ -3,7 +3,7 @@ package controllers
 import (
 	// "encoding/json"
 	"fmt"
-	m "github.com/3xxx/engineercms/models"
+	m "../models"
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/orm"
 	"github.com/casbin/beego-orm-adapter"

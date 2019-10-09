@@ -5,7 +5,7 @@ import (
 	// "encoding/hex"
 	// "encoding/json"
 	// "github.com/3xxx/engineercms/models"
-	"github.com/3xxx/engineercms/controllers/utils"
+	"./utils"
 	"github.com/astaxie/beego"
 	// "github.com/astaxie/beego/httplib"
 	// "github.com/astaxie/beego/logs"
