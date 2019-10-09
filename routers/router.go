@@ -5,7 +5,7 @@
 package routers
 
 import (
-	"github.com/3xxx/engineercms/controllers"
+	"../controllers"
 	// "githsub.com/3xxx/engineercms/controllers/checkin"
 	"github.com/astaxie/beego"
 	// "github.com/astaxie/beego/context"
