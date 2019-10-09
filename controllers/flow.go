@@ -6,7 +6,7 @@ import (
 	"../models"
 	"github.com/astaxie/beego"
 	_ "github.com/go-sql-driver/mysql"
-	"github.com/js-ojus/flow"
+	"github.com/3xxx/flow"
 	"log"
 	"strconv"
 )
