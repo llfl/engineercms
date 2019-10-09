@@ -1,13 +1,13 @@
 package main
 
 import (
-	_ "controllers/version"
-	_ "routers"
+	_ "./controllers/version"
+	_ "./routers"
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/orm"
 	// "github.com/go-xorm/xorm"
 	// "github.com/astaxie/beego/plugins/cors"
-	"models"
+	"./models"
 	// _ "github.com/mattn/go-sqlite3"
 	"fmt"
 	"io"
